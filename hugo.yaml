@@ -26,6 +26,7 @@ languages:
     languageName: Spanish
     title: Alex Vall
     weight: 2
+    disabled: true
 # default language for the content
 defaultContentLanguage: en
 #defaultContentLanguageInSubdir: true
