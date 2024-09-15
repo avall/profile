@@ -1,0 +1,21 @@
+# some information about you
+name: "Alex Vall"
+nickname: "Jandrinet"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/jandrinet.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "alex.vall.mainou@gmail.com"
+  teléfono: "+34 629655387"
+  github: avall
+  linkedin: alejandro-vall-09a2b25
+
+
+# some summary about what you do
+summary:
+  - I am a software architect focused on backend.
+  - I have experience in Microservices architectures developed in Java (Spring Framework - Boot, Cloud), Kotlin and kafka (async).
+  - I am always very focused on looking for open-source / infrastructure level solutions (Camunda for orchestration or OPA to handle authorization policies) rather than custom implementations.
+  - Any infrastructure level solution is usually better than a custom implementation.
+  - Remember !! People is first than processes !!
