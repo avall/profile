@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alex Vall</title><link>/profile/es/</link><description>Recent content on Alex Vall</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="/profile/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown এর নমুনা</title><link>/profile/es/posts/markdown-sample/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>/profile/es/posts/markdown-sample/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alex Vall</title><link>https://avall.github.io/profile/es/</link><description>Recent content on Alex Vall</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://avall.github.io/profile/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown এর নমুনা</title><link>https://avall.github.io/profile/es/posts/markdown-sample/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/posts/markdown-sample/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
 &lt;ul>
 &lt;li>একজন ভিন্ন পোস্ট লেখক।&lt;/li>
 &lt;li>সূচীপত্র।&lt;/li>
@@ -17,12 +17,12 @@
 &lt;h5 id="h5">H5&lt;/h5>
 &lt;h6 id="h6">H6&lt;/h6>
 &lt;h2 id="paragraph">Paragraph&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p></description></item><item><title>ভূমিকা</title><link>/profile/es/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>/profile/es/posts/introduction/</guid><description>&lt;p>স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
+&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p></description></item><item><title>ভূমিকা</title><link>https://avall.github.io/profile/es/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/posts/introduction/</guid><description>&lt;p>স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
 &lt;ul>
 &lt;li>হেরো ছবিটি পোস্ট এর সাথে একই পথে আছে।&lt;/li>
 &lt;li>এই পোস্টটি সাইডবারের সবার প্রথমে থাকা উচিত।&lt;/li>
 &lt;li>পোস্টের লেখক &lt;code>author.yaml&lt;/code> ফাইল এ যাকে উল্লেখ করা হয়েছে তিনিই থাকবেন।&lt;/li>
-&lt;/ul></description></item><item><title>শর্টকোডের নমুনা</title><link>/profile/es/posts/shortcodes/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>/profile/es/posts/shortcodes/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
+&lt;/ul></description></item><item><title>শর্টকোডের নমুনা</title><link>https://avall.github.io/profile/es/posts/shortcodes/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/posts/shortcodes/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
 &lt;ul>
 &lt;li>ডিফল্ট হিরো ইমেজ।&lt;/li>
 &lt;li>বিভিন্ন শর্টকোড।&lt;/li>
@@ -59,19 +59,19 @@
 &lt;/div>
 &lt;h2 id="ছব">ছবি&lt;/h2>
 &lt;h4 id="কন-ধরনর-attribute-ছড়-ছবর-একট-নমন">কোন ধরনের attribute ছাড়া ছবির একটি নমুনা।&lt;/h4>
-&lt;img src="/profile/posts/shortcodes/boat.jpg"
+&lt;img src="https://avall.github.io/profile/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 >
 &lt;div style="margin-top: 3rem;">&lt;/div>
 &lt;h4 id="height-এব-width-attribute-সহ-ছবর-একট-নমন">&lt;code>height&lt;/code> এবং &lt;code>width&lt;/code> attribute সহ ছবির একটি নমুনা।&lt;/h4>
-&lt;img src="/profile/posts/shortcodes/boat.jpg"
+&lt;img src="https://avall.github.io/profile/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
 >
 &lt;div style="margin-top: 3rem;">&lt;/div>
 &lt;h4 id="height-এব-width-attribute-সহ-মঝখন-সতপত-ছবর-একট-নমন">&lt;code>height&lt;/code> এবং &lt;code>width&lt;/code> attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা।&lt;/h4>
-&lt;img src="/profile/posts/shortcodes/boat.jpg"
+&lt;img src="https://avall.github.io/profile/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
@@ -79,20 +79,20 @@ class="center"
 >
 &lt;div style="margin-top: 3rem;">&lt;/div>
 &lt;h4 id="float-attribute-সহ-ছবর-একট-নমন">&lt;code>float&lt;/code> attribute সহ ছবির একটি নমুনা।&lt;/h4>
-&lt;img src="/profile/posts/shortcodes/boat.jpg"
+&lt;img src="https://avall.github.io/profile/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="500"
 height="200"
 style="float: right;"
 >
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item><item><title>সমৃদ্ধ কন্টেন্ট</title><link>/profile/es/posts/category/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>/profile/es/posts/category/sub-category/rich-content/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item><item><title>সমৃদ্ধ কন্টেন্ট</title><link>https://avall.github.io/profile/es/posts/category/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/posts/category/sub-category/rich-content/</guid><description>&lt;p>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ&lt;/p>
 &lt;ul>
 &lt;li>বিভাগ, উপ-বিভাগে সাইডবারে একটির ভেতর আরেকটি কিভাবে আছে সেটা দেখা।&lt;/li>
 &lt;li>হেরো ছবিটি পোস্ট যে পথে আছে সে পথে &lt;code>images&lt;/code> ফোল্ডার এ থাকবে।&lt;/li>
 &lt;li>বিভিন্ন মিডিয়া যেমন ছবি, টুইট, ইউটিউব ভিডিও, ভীমেও ভিডিও ইত্যাদি রেন্ডারিং।&lt;/li>
 &lt;/ul>
 &lt;h3 id="ছবর-নমন">ছবির নমুনা&lt;/h3>
-&lt;img src="/profile/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://avall.github.io/profile/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -110,17 +110,17 @@ class="center"
 &lt;h3 id="ভমও-ভডও-নমন">ভীমেও ভিডিও নমুনা&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Resultados de Búsqueda</title><link>/profile/es/search/</link><pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate><guid>/profile/es/search/</guid><description>&lt;p>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code>search&lt;/code> relacionada.&lt;/p>
+&lt;/div></description></item><item><title>Resultados de Búsqueda</title><link>https://avall.github.io/profile/es/search/</link><pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/search/</guid><description>&lt;p>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code>search&lt;/code> relacionada.&lt;/p>
 &lt;p>No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html&lt;/p>
 &lt;p>Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.&lt;/p>
 &lt;p>Esta implementación utiliza Fusejs, jquery y mark.js&lt;/p>
 &lt;h2 id="configuración-inicial">Configuración inicial&lt;/h2>
-&lt;p>La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p></description></item><item><title>Resultados de Búsqueda</title><link>/profile/es/search/</link><pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate><guid>/profile/es/search/</guid><description>&lt;p>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code>search&lt;/code> relacionada.&lt;/p>
+&lt;p>La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p></description></item><item><title>Resultados de Búsqueda</title><link>https://avall.github.io/profile/es/search/</link><pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate><guid>https://avall.github.io/profile/es/search/</guid><description>&lt;p>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code>search&lt;/code> relacionada.&lt;/p>
 &lt;p>No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html&lt;/p>
 &lt;p>Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.&lt;/p>
 &lt;p>Esta implementación utiliza Fusejs, jquery y mark.js&lt;/p>
 &lt;h2 id="configuración-inicial">Configuración inicial&lt;/h2>
-&lt;p>La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p></description></item><item><title>Go পরিচিতি</title><link>/profile/es/notes/go/basic/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/profile/es/notes/go/basic/introduction/</guid><description>&lt;!-- A Sample Program -->
+&lt;p>La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p></description></item><item><title>Go পরিচিতি</title><link>https://avall.github.io/profile/es/notes/go/basic/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://avall.github.io/profile/es/notes/go/basic/introduction/</guid><description>&lt;!-- A Sample Program -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Hello World&lt;/span>&lt;/h5>
@@ -167,7 +167,7 @@ class="center"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>বেসিক টাইপ সমূহ</title><link>/profile/es/notes/go/basic/types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/profile/es/notes/go/basic/types/</guid><description>&lt;!-- String Type -->
+&lt;/div></description></item><item><title>বেসিক টাইপ সমূহ</title><link>https://avall.github.io/profile/es/notes/go/basic/types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://avall.github.io/profile/es/notes/go/basic/types/</guid><description>&lt;!-- String Type -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Strings&lt;/span>&lt;/h5>
@@ -221,7 +221,7 @@ class="center"
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#f92672">&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">a&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">a&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> new(&lt;span style="color:#66d9ef">int&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">*&lt;/span>&lt;span style="color:#a6e22e">a&lt;/span> = &lt;span style="color:#ae81ff">234&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Pointers point to a memory location of a variable. Go is fully garbage-collected.&lt;/p></description></item><item><title>ফ্লো কন্ট্রোল</title><link>/profile/es/notes/go/basic/flow-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/profile/es/notes/go/basic/flow-control/</guid><description>&lt;!-- Condition -->
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Pointers point to a memory location of a variable. Go is fully garbage-collected.&lt;/p></description></item><item><title>ফ্লো কন্ট্রোল</title><link>https://avall.github.io/profile/es/notes/go/basic/flow-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://avall.github.io/profile/es/notes/go/basic/flow-control/</guid><description>&lt;!-- Condition -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Condition&lt;/span>&lt;/h5>
@@ -278,7 +278,7 @@ class="center"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>ফাইল ম্যানিপুলেশন</title><link>/profile/es/notes/go/advanced/files/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/profile/es/notes/go/advanced/files/</guid><description>&lt;!-- Condition -->
+&lt;/div></description></item><item><title>ফাইল ম্যানিপুলেশন</title><link>https://avall.github.io/profile/es/notes/go/advanced/files/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://avall.github.io/profile/es/notes/go/advanced/files/</guid><description>&lt;!-- Condition -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Condition&lt;/span>&lt;/h5>
@@ -295,7 +295,7 @@ class="center"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>ব্যাশ ভেরিয়েবল</title><link>/profile/es/notes/bash/basic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/profile/es/notes/bash/basic/</guid><description>&lt;!-- Variable -->
+&lt;/div></description></item><item><title>ব্যাশ ভেরিয়েবল</title><link>https://avall.github.io/profile/es/notes/bash/basic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://avall.github.io/profile/es/notes/bash/basic/</guid><description>&lt;!-- Variable -->
 &lt;div class="note-card ">
 &lt;div class="item">
 &lt;h5 class="note-title">&lt;span>Variable&lt;/span>&lt;/h5>
