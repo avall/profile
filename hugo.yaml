@@ -1,4 +1,4 @@
-baseURL: /profile
+baseURL: https://avall.github.io/profile
 languageCode: en-us
 title: My New Profile
 
@@ -54,6 +54,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+  subPath: profile/
   # Background image of the landing page
   background: /images/site/background.jpg
 
@@ -65,7 +66,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/avall/profile
   # Default branch of your Git repo
   gitBranch: main
 
