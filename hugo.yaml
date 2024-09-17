@@ -18,12 +18,12 @@ module:
 languages:
   en:
     languageCode: en
-    languageName: English
+    languageName: English 🇬🇧
     title: "Alex Vall"
     weight: 1
   es:
     languageCode: es
-    languageName: Spanish
+    languageName: Spanish 🇪🇸
     title: Alex Vall
     weight: 2
 
