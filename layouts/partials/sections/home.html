@@ -1,3 +1,8 @@
+{{ $script_particles := resources.Get "scripts/particles.js" }}
+<script src="{{ $script_particles.RelPermalink }}" integrity="{{ $script_particles.Data.Integrity }}"></script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+
 {{ $author:= site.Data.author }}
 {{ if (index site.Data site.Language.Lang).author }}
   {{ $author = (index site.Data site.Language.Lang).author }}
@@ -73,8 +78,9 @@
   {{ $large := $src}}
 {{ end }}
 
-<div id="particles-js" class="particles-js">
-<!--</div>-->
+<div id="particles-js" class="particles-js-canvas-el container-fluid home">
+<!--  <canvas class="particles-js-canvas-el container-fluid home"></canvas>-->
+
 <!--<div class="container-fluid home" id="home">-->
 <!--  <style>-->
 <!--    /* 0 to 299 */-->
@@ -83,22 +89,22 @@
 <!--    }-->
 <!--    /* 300 to X */-->
 <!--    @media (min-width: 500px) and (max-width: 800px) { /* or 301 if you want really the same as previously.  */-->
-<!--      #homePageBackgroundImageDivStyled {   -->
+<!--      #homePageBackgroundImageDivStyled {-->
 <!--          background-image: url('{{ $small.RelPermalink }}');-->
 <!--        }-->
 <!--    }-->
 <!--    @media (min-width: 801px) and (max-width: 1200px) { /* or 301 if you want really the same as previously.  */-->
-<!--      #homePageBackgroundImageDivStyled {   -->
+<!--      #homePageBackgroundImageDivStyled {-->
 <!--          background-image: url('{{ $medium.RelPermalink }}');-->
 <!--        }-->
 <!--    }-->
 <!--    @media (min-width: 1201px) and (max-width: 1500px) { /* or 301 if you want really the same as previously.  */-->
-<!--      #homePageBackgroundImageDivStyled {   -->
+<!--      #homePageBackgroundImageDivStyled {-->
 <!--          background-image: url('{{ $large.RelPermalink }}');-->
 <!--        }-->
 <!--    }-->
 <!--    @media (min-width: 1501px) { /* or 301 if you want really the same as previously.  */-->
-<!--      #homePageBackgroundImageDivStyled {   -->
+<!--      #homePageBackgroundImageDivStyled {-->
 <!--          background-image: url('{{ $src.RelPermalink }}');-->
 <!--        }-->
 <!--    }-->
@@ -139,7 +145,5 @@
     {{ end }}
   </div>
 </div>
+<!--</div>-->
 
-{{ $script_particles := resources.Get "scripts/particles.js" }}
-<script src="{{ $script_particles.RelPermalink }}" integrity="{{ $script_particles.Data.Integrity }}"></script>
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
