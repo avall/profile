@@ -2,7 +2,7 @@ name: Keep Repository Active
 
 on:
   schedule:
-    - cron: '45 7 * * *'  # Ejecuta cada domingo a la medianoche UTC
+    - cron: '0 8 * * *'  # Ejecuta cada domingo a la medianoche UTC
 
 jobs:
   keepalive:
