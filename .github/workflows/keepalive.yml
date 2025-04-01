@@ -3,6 +3,7 @@ name: Keep Repository Active
 on:
   schedule:
     - cron: '0 8 * * *'  # Ejecuta cada domingo a la medianoche UTC
+  workflow_dispatch:
 
 jobs:
   keepalive:
