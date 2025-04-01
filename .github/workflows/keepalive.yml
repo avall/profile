@@ -9,6 +9,9 @@ jobs:
   keepalive:
     runs-on: ubuntu-latest
     steps:
+      - name: Mostrar la hora actual
+        run: date
+  
       - name: Checkout repository
         uses: actions/checkout@v4
 
