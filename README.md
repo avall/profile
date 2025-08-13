@@ -1,1 +1,1 @@
-# profile
+# Hugo profile
