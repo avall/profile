@@ -77,12 +77,12 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
-        args: "--verbose --exclude-mail ${{steps.preview.outputs.url}} --exclude=['https://www.udemy.com/']"
+        args: "--verbose --exclude=['https://www.udemy.com/'] ."
         output: lychee/out.md
 
     - name: Comment Broken Links
       if: ${{ steps.lychee.outputs.exit_code != 0 }}
-      uses: marocchino/sticky-pull-request-comment@v2
+      uses: marocchino/sticky-pull-request-comment@v3
       with:
         path: lychee/out.md
 
